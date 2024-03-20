@@ -1,6 +1,4 @@
-# rust-new-project-template
+# Example of Rsut program with Actions CI
 A good starting point for a new Rust project
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Tests our Rust programm with actions ci
